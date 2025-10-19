@@ -1,0 +1,57 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/de.xml"
+
+##############################
+# 🇩🇪 DEUTSCHLAND – ÖFFENTLICH UND FREI
+##############################
+
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Das_Erste_HD_Logo_2014.svg" group-title="Deutschland",Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/ZDF_logo_2021.svg" group-title="Deutschland",ZDF
+https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/3sat_2021.svg" group-title="Deutschland",3sat
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="Arte.de" tvg-name="Arte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Arte_Logo_2017.svg" group-title="Deutschland",Arte
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW Deutsch+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Deutsche_Welle_logo_2021.svg" group-title="Nachrichten",DW Deutsch+
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Euronews_logo_2023.svg" group-title="Nachrichten",Euronews Deutsch
+https://rakuten-euronews-1-de.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NASA.tv" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Wissenschaft",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="RadioBayern1" tvg-name="Bayern 1 Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bayern_1_logo_2023.svg" group-title="Radio",Bayern 1 Radio
+https://dispatcher.rndfnk.com/br/br1/oberbayern/mp3/mid
+
+##############################
+# 🇹🇷 TÜRKEI – ÖFFENTLICHE & FREIE SENDER
+##############################
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/TRT_1_logo.svg" group-title="Türkei",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TRT_Haber_logo.svg" group-title="Nachrichten",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TRT_World_logo.svg" group-title="Nachrichten",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/TRT_Spor_logo_2014.svg" group-title="Sport",TRT Spor
+https://tv-trtspor.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TRT_T%C3%BCrk_logo.svg" group-title="Türkei",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRT_Belgesel_logo_2022.svg" group-title="Doku",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTMusic.tr" tvg-name="TRT Müzik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/TRT_M%C3%BCzik_logo.svg" group-title="Musik",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTÇocuk.tr" tvg-name="TRT Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/TRT_%C3%87ocuk_logo_2022.svg" group-title="Kinder",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8 
