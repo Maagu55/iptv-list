@@ -1,0 +1,99 @@
+#EXTM3U
+# IPTV-Anbieter.info Liste ÖR-Sender – optimiert
+
+# --- Hauptsender ARD/ZDF und Partnersender ---
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="IPTV-DE",Das Erste HD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="IPTV-DE",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="IPTV-DE",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="IPTV-DE",ARTE HD
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="IPTV-DE",ARD-alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="One HD" tvg-id="One.de" group-title="IPTV-DE",One HD
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
+
+#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="IPTV-DE",ZDFneo HD
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="IPTV-DE",ZDFinfo HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="Phoenix HD" tvg-id="Phoenix.de" group-title="IPTV-DE",Phoenix HD
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="Tagesschau24.de" group-title="IPTV-DE",tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="IPTV-DE",KiKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+
+# --- ARD Regionalsender ---
+#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" group-title="IPTV-DE",WDR HD
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+
+#EXTINF:-1 tvg-name="WDR Aachen HD" tvg-id="WDR.de" group-title="IPTV-DE",WDR Aachen HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Bonn HD" tvg-id="WDR.de" group-title="IPTV-DE",WDR Bonn HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Bergisches Land HD" tvg-id="WDR.de" group-title="IPTV-DE",WDR Bergisches Land HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Dortmund HD" tvg-id="WDR.de" group-title="IPTV-DE",WDR Dortmund HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Düsseldorf HD" tvg-id="WDR.de" group-title="IPTV-DE",WDR Düsseldorf HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Duisburg HD" tvg-id="WDR.de" group-title="IPTV-DE",WDR Duisburg HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Köln HD" tvg-id="WDR.de" group-title="IPTV-DE",WDR Köln HD
+https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Münsterland HD" tvg-id="WDR.de" group-title="IPTV-DE",WDR Münsterland HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Ostwestfalen HD" tvg-id="WDR.de" group-title="IPTV-DE",WDR Ostwestfalen HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Südwestfalen HD" tvg-id="WDR.de" group-title="IPTV-DE",WDR Südwestfalen HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Ruhr HD" tvg-id="WDR.de" group-title="IPTV-DE",WDR Ruhr HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
+
+#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD" tvg-id="SWR.de" group-title="IPTV-DE",SWR Baden-Württemberg HD
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+
+#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz HD" tvg-id="SWR.de" group-title="IPTV-DE",SWR Rheinland-Pfalz HD
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="NDR.de" group-title="IPTV-DE",NDR Niedersachsen HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Schleswig-Holstein HD" tvg-id="NDR.de" group-title="IPTV-DE",NDR Schleswig-Holstein HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern HD" tvg-id="NDR.de" group-title="IPTV-DE",NDR Mecklenburg-Vorpommern HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Hamburg HD" tvg-id="NDR.de" group-title="IPTV-DE",NDR Hamburg HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+
+#EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" group-title="IPTV-DE",Radio Bremen TV HD
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+
+#EXTINF:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" group-title="IPTV-DE",BR Fernsehen Nord HD
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BR.de" group-title="IPTV-DE",BR Fernsehen Süd HD
